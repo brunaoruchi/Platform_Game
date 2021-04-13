@@ -1,10 +1,11 @@
 <h2 align="center">Projeto 1: Jogo de Plataforma</h2>
 
+ <img src="https://github.com/brunaoruchi/Platform_Game/blob/main/PlataformProject.gif">
 ___
 
 <h3 align="center">
   <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
-  <a href="#seedling-requisitos-mínimos">Requisitos</a>&nbsp;|&nbsp;
+  <a href="#seedling-requisitos-mínimos">Requisitos</a>
 </h3>
 
 ___

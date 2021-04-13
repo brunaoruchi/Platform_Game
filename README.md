@@ -6,20 +6,12 @@ ___
 
 ___
 
-<h3 align="center">
-  <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
-  <a href="#seedling-requisitos-mínimos">Requisitos</a>
-</h3>
-
-___
-
-
 ## :information_source: Sobre
 
 Projeto desenvolvido na disciplina Desenvolvimento de Jogos, com objetivo de elaborar uma fase pequena de um jogo de plataforma
 
 
-## :seedling: Requisitos Mínimos
+## :check_mark: Requisitos Mínimos
 
 - Um cenário com pelo menos 6 vezes a largura da tela.
 

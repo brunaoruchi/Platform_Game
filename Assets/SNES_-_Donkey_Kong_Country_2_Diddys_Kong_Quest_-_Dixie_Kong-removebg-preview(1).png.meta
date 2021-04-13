@@ -1,0 +1,1184 @@
+fileFormatVersion: 2
+guid: 72a22a04aeb6fbc43ac96a44428ac3ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4828771395397938389
+    second: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_0
+  - first:
+      213: -6528129694048953278
+    second: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_1
+  - first:
+      213: 8536986671486712131
+    second: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_2
+  - first:
+      213: 7644667588065859551
+    second: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_3
+  - first:
+      213: -2153060173778247918
+    second: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_4
+  - first:
+      213: -4450635862042412811
+    second: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_5
+  - first:
+      213: -8048086964417499165
+    second: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_6
+  - first:
+      213: 633109843799585289
+    second: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_7
+  - first:
+      213: -3205116149777958184
+    second: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_8
+  - first:
+      213: 7355592078597705223
+    second: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_9
+  - first:
+      213: -499102558340581185
+    second: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_10
+  - first:
+      213: -6735898418581534404
+    second: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_11
+  - first:
+      213: -8034068382226886200
+    second: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_12
+  - first:
+      213: 2217617537942952941
+    second: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_13
+  - first:
+      213: 673991525959143547
+    second: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_14
+  - first:
+      213: -1511752599649383675
+    second: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_15
+  - first:
+      213: -7421488739861315781
+    second: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_16
+  - first:
+      213: -8675227527809052262
+    second: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_17
+  - first:
+      213: -1972824786323994680
+    second: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_18
+  - first:
+      213: 6193335639575936443
+    second: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_19
+  - first:
+      213: 1875947116706357814
+    second: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_20
+  - first:
+      213: 4640027452445453842
+    second: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_21
+  - first:
+      213: -7217592971498005614
+    second: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_22
+  - first:
+      213: 9058893440016118291
+    second: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_23
+  - first:
+      213: 7392240035307778839
+    second: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_24
+  - first:
+      213: -742147069613698154
+    second: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_25
+  - first:
+      213: -2871688606577189728
+    second: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_26
+  - first:
+      213: -4299416915275331092
+    second: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_27
+  - first:
+      213: 310127496659955545
+    second: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_28
+  - first:
+      213: 8779879764783423288
+    second: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_29
+  - first:
+      213: 6108113619277328278
+    second: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_30
+  - first:
+      213: 1418425249422139543
+    second: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_31
+  - first:
+      213: 521390828215093238
+    second: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_32
+  - first:
+      213: 6392068588238544564
+    second: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_33
+  - first:
+      213: 3206158250740275732
+    second: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_34
+  - first:
+      213: -2604539623866843878
+    second: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_35
+  - first:
+      213: 3964545107035286296
+    second: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_36
+  - first:
+      213: 3727677392008669529
+    second: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_37
+  - first:
+      213: -2931971281878681629
+    second: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_38
+  - first:
+      213: -7377524387548562415
+    second: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_39
+  - first:
+      213: -9208722428667249088
+    second: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_40
+  - first:
+      213: 9093765511729731519
+    second: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_41
+  - first:
+      213: -4432276056334235382
+    second: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_42
+  - first:
+      213: -8971439737667718085
+    second: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_43
+  - first:
+      213: -150846375851336249
+    second: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 51
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dce24c000e330340800000000000000
+      internalID: 4828771395397938389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 51
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c588a71ac6765a0800000000000000
+      internalID: -6528129694048953278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 51
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349b5369528797670800000000000000
+      internalID: 8536986671486712131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 51
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd79b9c0ba0571a60800000000000000
+      internalID: 7644667588065859551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 51
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f18e9ed2bce12e0800000000000000
+      internalID: -2153060173778247918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 51
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8f852934a2c32c0800000000000000
+      internalID: -4450635862042412811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_6
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 51
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef6174eb837f4090800000000000000
+      internalID: -8048086964417499165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_7
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 51
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9023a7f6c0249c800800000000000000
+      internalID: 633109843799585289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_8
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 51
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dafd9cd7d32583d0800000000000000
+      internalID: -3205116149777958184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_9
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 51
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e4e7d1600541660800000000000000
+      internalID: 7355592078597705223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_10
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 51
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8fe971ed4d219f0800000000000000
+      internalID: -499102558340581185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_11
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 50
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39055d93184582a0800000000000000
+      internalID: -6735898418581534404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_12
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 50
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c15b286f51418090800000000000000
+      internalID: -8034068382226886200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_13
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 50
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb14ccb66f86ce10800000000000000
+      internalID: 2217617537942952941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_14
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 50
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b701b6ec8bf7a5900800000000000000
+      internalID: 673991525959143547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_15
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 50
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b00ad250d250be0800000000000000
+      internalID: -1511752599649383675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_16
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 49
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f3104df43910990800000000000000
+      internalID: -7421488739861315781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_17
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 49
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91504bd6866b9780800000000000000
+      internalID: -8675227527809052262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 6
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7821f2f4e1f94e0800000000000000
+      internalID: -1972824786323994680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_19
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 6
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdb0b353f523f550800000000000000
+      internalID: 6193335639575936443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 6
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63263b4a6f3b80a10800000000000000
+      internalID: 1875947116706357814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_21
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 7
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e62135260b46040800000000000000
+      internalID: 4640027452445453842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 7
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b5180de65f5db90800000000000000
+      internalID: -7217592971498005614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 7
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312f64e6697a7bd70800000000000000
+      internalID: 9058893440016118291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_24
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 8
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713f0f67523869660800000000000000
+      internalID: 7392240035307778839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_25
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 6
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69314981c2d53b5f0800000000000000
+      internalID: -742147069613698154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_26
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 5
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac1e6b5d66b528d0800000000000000
+      internalID: -2871688606577189728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_27
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 6
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce945b748176554c0800000000000000
+      internalID: -4299416915275331092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_28
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 6
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f6f79a05bcd4400800000000000000
+      internalID: 310127496659955545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_29
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 6
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f5e86d02668d970800000000000000
+      internalID: 8779879764783423288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_30
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 6
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f20cc79f064c450800000000000000
+      internalID: 6108113619277328278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_31
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 6
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790604ccf324fa310800000000000000
+      internalID: 1418425249422139543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_32
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 6
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f748e0223a5c3700800000000000000
+      internalID: 521390828215093238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_33
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 6
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be14eda38035b850800000000000000
+      internalID: 6392068588238544564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_34
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 6
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41adf0d21ff8e7c20800000000000000
+      internalID: 3206158250740275732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_35
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 5
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1dbcf3f201dadbd0800000000000000
+      internalID: -2604539623866843878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_36
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 5
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81be9d015c4e40730800000000000000
+      internalID: 3964545107035286296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_37
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 5
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9596ee386de5bb330800000000000000
+      internalID: 3727677392008669529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_38
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 5
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e779f347ab8f47d0800000000000000
+      internalID: -2931971281878681629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_39
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 5
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cf26648a4cd9990800000000000000
+      internalID: -7377524387548562415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_40
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 5
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ebd14bdbb043080800000000000000
+      internalID: -9208722428667249088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_41
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 5
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb759555d8b833e70800000000000000
+      internalID: 9093765511729731519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_42
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 5
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a098ab3f8646d72c0800000000000000
+      internalID: -4432276056334235382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_43
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 5
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34fd70671b0f7380800000000000000
+      internalID: -8971439737667718085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Donkey_Kong_Country_2_Diddys_Kong_Quest_-_Dixie_Kong-removebg-preview(1)_44
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 5
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdd9b7350618edf0800000000000000
+      internalID: -150846375851336249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

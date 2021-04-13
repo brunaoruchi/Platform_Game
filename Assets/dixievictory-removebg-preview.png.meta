@@ -1,0 +1,968 @@
+fileFormatVersion: 2
+guid: eacd3a0e163c15c449cb78fd5a964bbc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6272340367958982561
+    second: dixievictory-removebg-preview_0
+  - first:
+      213: 2446907364777187912
+    second: dixievictory-removebg-preview_1
+  - first:
+      213: 3363120218957371717
+    second: dixievictory-removebg-preview_2
+  - first:
+      213: -857123444897313577
+    second: dixievictory-removebg-preview_3
+  - first:
+      213: -6326890741971461693
+    second: dixievictory-removebg-preview_4
+  - first:
+      213: -3291893839630441603
+    second: dixievictory-removebg-preview_5
+  - first:
+      213: 5545511863093433634
+    second: dixievictory-removebg-preview_6
+  - first:
+      213: -7095132728059986789
+    second: dixievictory-removebg-preview_7
+  - first:
+      213: -3186210589438459392
+    second: dixievictory-removebg-preview_8
+  - first:
+      213: 7893251915794805707
+    second: dixievictory-removebg-preview_9
+  - first:
+      213: 6280475374004970891
+    second: dixievictory-removebg-preview_10
+  - first:
+      213: 5110683919127499642
+    second: dixievictory-removebg-preview_11
+  - first:
+      213: 2916718352476471508
+    second: dixievictory-removebg-preview_12
+  - first:
+      213: 8479296567432838853
+    second: dixievictory-removebg-preview_13
+  - first:
+      213: -3040835893878460211
+    second: dixievictory-removebg-preview_14
+  - first:
+      213: -8101101389908959428
+    second: dixievictory-removebg-preview_15
+  - first:
+      213: -3131536306509268837
+    second: dixievictory-removebg-preview_16
+  - first:
+      213: -1630619880389600507
+    second: dixievictory-removebg-preview_17
+  - first:
+      213: -311963899340782006
+    second: dixievictory-removebg-preview_18
+  - first:
+      213: 2636594557526769288
+    second: dixievictory-removebg-preview_19
+  - first:
+      213: -2335958634121902380
+    second: dixievictory-removebg-preview_20
+  - first:
+      213: -1674920426871658161
+    second: dixievictory-removebg-preview_21
+  - first:
+      213: 49179027053329078
+    second: dixievictory-removebg-preview_22
+  - first:
+      213: -5822784021091756633
+    second: dixievictory-removebg-preview_23
+  - first:
+      213: -4545814335272227339
+    second: dixievictory-removebg-preview_24
+  - first:
+      213: -5873127592500027520
+    second: dixievictory-removebg-preview_25
+  - first:
+      213: 6959059101481525792
+    second: dixievictory-removebg-preview_26
+  - first:
+      213: 7068679495378522950
+    second: dixievictory-removebg-preview_27
+  - first:
+      213: 198542740233347518
+    second: dixievictory-removebg-preview_28
+  - first:
+      213: -2589696750966906676
+    second: dixievictory-removebg-preview_29
+  - first:
+      213: -8646240562600879512
+    second: dixievictory-removebg-preview_30
+  - first:
+      213: -4495604679758071233
+    second: dixievictory-removebg-preview_31
+  - first:
+      213: 8841975272850128265
+    second: dixievictory-removebg-preview_32
+  - first:
+      213: -2365666296429976025
+    second: dixievictory-removebg-preview_33
+  - first:
+      213: -7615479934819585340
+    second: dixievictory-removebg-preview_34
+  - first:
+      213: -7318201443625196609
+    second: dixievictory-removebg-preview_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dixievictory-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 68
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f504679eaab24f8a0800000000000000
+      internalID: -6272340367958982561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dixievictory-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 67
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ad4d3b84925f120800000000000000
+      internalID: 2446907364777187912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dixievictory-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 68
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54953e345043cae20800000000000000
+      internalID: 3363120218957371717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dixievictory-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 68
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc8c32a4c2ea14f0800000000000000
+      internalID: -857123444897313577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dixievictory-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 68
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c95518346e5238a0800000000000000
+      internalID: -6326890741971461693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dixievictory-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 68
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73e78a7ef7d052d0800000000000000
+      internalID: -3291893839630441603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dixievictory-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 68
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225166978ad95fc40800000000000000
+      internalID: 5545511863093433634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dixievictory-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 68
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c7cbd1066098d90800000000000000
+      internalID: -7095132728059986789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dixievictory-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 68
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002cee4a95e48c3d0800000000000000
+      internalID: -3186210589438459392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dixievictory-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 68
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3fe931cc67a8d60800000000000000
+      internalID: 7893251915794805707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dixievictory-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 68
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85a728c31bb82750800000000000000
+      internalID: 6280475374004970891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dixievictory-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 68
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7355e662fbcce640800000000000000
+      internalID: 5110683919127499642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dixievictory-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 68
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0093d53e34a7820800000000000000
+      internalID: 2916718352476471508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dixievictory-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 68
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cef5078d438ca570800000000000000
+      internalID: 8479296567432838853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dixievictory-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 68
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0fd159dd7ccc5d0800000000000000
+      internalID: -3040835893878460211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dixievictory-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 15
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f9d05153b139f80800000000000000
+      internalID: -8101101389908959428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dixievictory-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 15
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98b641225c8a84d0800000000000000
+      internalID: -3131536306509268837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dixievictory-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 14
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b10b1bbdfde59e0800000000000000
+      internalID: -1630619880389600507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dixievictory-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 15
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a460c058c7eababf0800000000000000
+      internalID: -311963899340782006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dixievictory-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 14
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e7c12e7c0179420800000000000000
+      internalID: 2636594557526769288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dixievictory-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 15
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6482baff1059fd0800000000000000
+      internalID: -2335958634121902380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dixievictory-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 14
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49e441febc71c8e0800000000000000
+      internalID: -1674920426871658161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dixievictory-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 15
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bab9e58018bea000800000000000000
+      internalID: 49179027053329078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dixievictory-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 15
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5510388c0513fa0800000000000000
+      internalID: -5822784021091756633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dixievictory-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 15
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd683362f50ae0c0800000000000000
+      internalID: -4545814335272227339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dixievictory-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 15
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f9d7062957e7ea0800000000000000
+      internalID: -5873127592500027520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dixievictory-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 15
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02261c2d16b839060800000000000000
+      internalID: 6959059101481525792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dixievictory-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 15
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643df11bc8ef81260800000000000000
+      internalID: 7068679495378522950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dixievictory-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 15
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb16750029d51c200800000000000000
+      internalID: 198542740233347518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dixievictory-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 15
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc062aa968c8f0cd0800000000000000
+      internalID: -2589696750966906676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dixievictory-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 15
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ad99f9402620880800000000000000
+      internalID: -8646240562600879512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dixievictory-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 15
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3abf6ccc576c91c0800000000000000
+      internalID: -4495604679758071233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dixievictory-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 15
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98df403f9a105ba70800000000000000
+      internalID: 8841975272850128265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dixievictory-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 15
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7266d2889077b2fd0800000000000000
+      internalID: -2365666296429976025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dixievictory-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 15
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2b6fa0951605690800000000000000
+      internalID: -7615479934819585340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dixievictory-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 15
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb328fd7f86807a90800000000000000
+      internalID: -7318201443625196609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,6 +1,9 @@
 <h2 align="center">Projeto 1: Jogo de Plataforma</h2>
 
+___
+
  <img src="https://github.com/brunaoruchi/Platform_Game/blob/main/PlataformProject.gif">
+
 ___
 
 <h3 align="center">

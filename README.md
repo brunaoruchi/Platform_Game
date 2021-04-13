@@ -11,7 +11,7 @@ ___
 Projeto desenvolvido na disciplina Desenvolvimento de Jogos, com objetivo de elaborar uma fase pequena de um jogo de plataforma
 
 
-## :check_mark: Requisitos Mínimos
+## :heavy_check_mark: Requisitos Mínimos
 
 - Um cenário com pelo menos 6 vezes a largura da tela.
 

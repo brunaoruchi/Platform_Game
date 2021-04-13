@@ -8,7 +8,7 @@ ___
 
 ## :information_source: Sobre
 
-Projeto desenvolvido na disciplina Desenvolvimento de Jogos, com objetivo de elaborar uma fase pequena de um jogo de plataforma
+Projeto desenvolvido na disciplina Desenvolvimento de Jogos, com objetivo de elaborar uma fase pequena de um jogo de plataforma.
 
 
 ## :heavy_check_mark: Requisitos Mínimos
